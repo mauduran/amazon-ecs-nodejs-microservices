@@ -2,27 +2,27 @@
   "users": [
     {
       "id": 1,
-      "username": "marceline",
-      "name": "Marceline Abadeer",
-      "bio": "1000 year old vampire queen, musician"
+      "username": "mau4duran",
+      "name": "Mauricio Duran",
+      "bio": "Software Developer from Mexico :)"
     },
     {
       "id": 2,
-      "username": "finn",
-      "name": "Finn 'the Human' Mertens",
-      "bio": "Adventurer and hero, last human, defender of good"
+      "username": "lidaigorivina",
+      "name": "Lidiia Popova",
+      "bio": "Computer Science Student from Russia"
     },
     {
       "id": 3,
-      "username": "pb",
-      "name": "Bonnibel Bubblegum",
-      "bio": "Scientist, bearer of candy power, ruler of the candy kingdom"
+      "username": "ponchonator",
+      "name": "Alfonso Ramirez",
+      "bio": "Computer Systems Engineer from Mexico"
     },
     {
       "id": 4,
-      "username": "jake",
-      "name": "Jake the Dog",
-      "bio": "Former criminal, now magical dog adventurer, and father"
+      "username": "jprr44",
+      "name": "Juan Pablo Ramos Robles",
+      "bio": "Web Developer from Mexico"
     }
   ]
 }
